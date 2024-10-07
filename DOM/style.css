@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(226, 98, 238);
+}
+button{
+    background-color: blue;
+    color: wheat;
+}
+.heading-class{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+#box{
+    height: 100px;
+    resize: both;
+    overflow: auto;
+    width: 100px;   
+    background-color: bisque;
+    border: 2px solid black;
+}
+.content{
+    color: red;
+}
+.newClass{
+    background-color: burlywood;
+}
