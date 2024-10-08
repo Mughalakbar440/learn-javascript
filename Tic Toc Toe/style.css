@@ -28,5 +28,24 @@ body{
     border:none;
     box-shadow: 0 0 1rem rgba(0, 0, 0,0.6);
     font-size: 8vmin;
+    background-color: #ffffc7;
     color: #b0413e;
+}
+.btn{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: aliceblue;
+    border-radius: 1rem;
+    border: none;
+}
+#msg{
+    color: #ffffc7;
+    font-size: 5vmin;
+}
+.msg-container{
+height: 15vmin;
+}
+.hide{
+    display: none;
 }
